@@ -1,0 +1,17 @@
+Example 1:
+Input: in = [1, 7]
+Output: true
+
+Example 2:
+Input: in = [1, 1]
+Output: true
+
+Example 3:
+Input: in = [9, 5, 1]
+Output: true
+
+Example 4:
+Input: in = [23, 5, 23]
+Output: false
+
+
